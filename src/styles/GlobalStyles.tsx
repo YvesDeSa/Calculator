@@ -3,8 +3,8 @@ import { Theme } from "./Theme";
 
 export const Styles = StyleSheet.create({
   btnBlue: {
-    width: 72,
-    height: 72,
+    width: 90,
+    height: 90,
     borderRadius: 24,
     backgroundColor: Theme.colors.blue,
     justifyContent: "center",
@@ -12,8 +12,8 @@ export const Styles = StyleSheet.create({
     margin: 8,
   },
   btnDark: {
-    width: 72,
-    height: 72,
+    width: 90,
+    height: 90,
     borderRadius: 24,
     backgroundColor: Theme.colors.btnDark,
     justifyContent: "center",
@@ -21,8 +21,8 @@ export const Styles = StyleSheet.create({
     margin: 8,
   },
   btnLight: {
-    width: 72,
-    height: 72,
+    width: 90,
+    height: 90,
     borderRadius: 24,
     backgroundColor: Theme.colors.white,
     justifyContent: "center",
@@ -30,8 +30,8 @@ export const Styles = StyleSheet.create({
     margin: 8,
   },
   btnGray: {
-    width: 72,
-    height: 72,
+    width: 90,
+    height: 90,
     borderRadius: 24,
     backgroundColor: Theme.colors.btnGray,
     justifyContent: "center",
